@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Paint Calculator App</string>
+    <string name="help">help</string>
+    <string name="input">Input Room Dimensions</string>
+    <string name="Title_view">Paint Calculator</string>
+    <string name="helpactivity">Help</string>
+    <string name="Height_Text">Height</string>
+    <string name="Length_Text">Length</string>
+    <string name="Width_Text">Width</string>
+    <string name="Gallons_Text">Compute Gallons</string>
+    <string name="Instruction_One_Text">Enter the dimensions of the room in feet</string>
+    <string name="Instruction_Two_Text">How many doors and windows?</string>
+    <string name="Door_Text">Doors</string>
+    <string name="Window_Text">Windows</string>
+    <string name="Help_Info1">This paint job calculator computes the approximate number of gallons needed to paint a single coat covering four walls and the ceiling of an interior room.</string>
+    <string name="Help_Info2">If you wish to apply multiple coats, multiply the number of computed gallons by the number of coats needed. You must provide the dimensions of the room as well as number of doors and windows.</string>
+    <string name="Help_Info3">The input for dimensions of the room will be length,width,and height of the room. In addition, you must also provide number of doors and windows in the room,their area will not be include in the surface area to be painted.</string>
+    <string name="Help_Info4">This calculator assumes a door is a standard measurement of 7 x 3 feet and a window is a standard measurement of 4 x 4 feet.</string>
+    <string name="Help_Info5">A gallon of paint will cover aproximately 275 square feet.</string>
+    <string name="surface_area">Suface Area of Room</string>
+    <string name="gallons_needed">Gallons of Paint Needed</string>
+</resources>
